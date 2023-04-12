@@ -1,0 +1,9 @@
+Batuhan Karakas
+
+1) Asciiname = 739
+2) Asciisurname = 744
+3) Asciitotal = 1483
+4) Timernumber = 14	
+5) ARRNUMBER = 65535
+6) Duration = 22320
+7) LEDPINNUMBER = 15
